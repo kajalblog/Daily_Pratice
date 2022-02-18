@@ -1,8 +1,8 @@
 // Union Type
-let data:string|number|boolean="Kajal";
+let data3:string|number|boolean="Kajal";
 // data=30;
-data=true;
-console.log(data);
+// data=true;
+console.log(data3);
 
 function add1(a1:number|string,b1:number|string)
 {
